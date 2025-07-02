@@ -1,0 +1,127 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the sixth Conference on Health, Inference, and Learning
+shortname: CHIL
+conferenceurl: https://chil.ahli.cc/
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '287'
+year: '2025'
+start: &1 2025-06-25
+end: 2025-06-27
+published: 2025-07-02
+layout: proceedings
+issn: 2640-3498
+id: CHIL2025
+month: 0
+tex_title: Proceedings of the sixth Conference on Health, Inference, and Learning
+cycles: false
+bibtex_editor: Xu, Xuhai Orson and Choi, Edward and Singhal, Pankhuri and Gerych,
+  Walter and Tang, Shengpu and Agrawal, Monica and Subbaswamy, Adarsh and Sizikova,
+  Elena and Dunn, Jessilyn and Daneshjou, Roxana and Sarker, Tasmie and McDermott,
+  Matthew and Chen, Irene
+editor:
+- given: Xuhai Orson
+  family: Xu
+- given: Edward
+  family: Choi
+- given: Pankhuri
+  family: Singhal
+- given: Walter
+  family: Gerych
+- given: Shengpu
+  family: Tang
+- given: Monica
+  family: Agrawal
+- given: Adarsh
+  family: Subbaswamy
+- given: Elena
+  family: Sizikova
+- given: Jessilyn
+  family: Dunn
+- given: Roxana
+  family: Daneshjou
+- given: Tasmie
+  family: Sarker
+- given: Matthew
+  family: McDermott
+- given: Irene
+  family: Chen
+description: |
+  Proceedings of the sixth Conference on Health, Inference, and Learning
+    Held in Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley, USA on 25-27 June 2025
+
+  Published as Volume 287 by the Proceedings of Machine Learning Research on 02 July 2025.
+
+  Volume Edited by:
+    Xuhai Orson Xu
+    Edward Choi
+    Pankhuri Singhal
+    Walter Gerych
+    Shengpu Tang
+    Monica Agrawal
+    Adarsh Subbaswamy
+    Elena Sizikova
+    Jessilyn Dunn
+    Roxana Daneshjou
+    Tasmie Sarker
+    Matthew McDermott
+    Irene Chen
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 25--27 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v287"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v287
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v287
+email: ''
+conference:
+  name: Conference on Health, Inference, and Learning
+  url:
+  location: Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley,
+    USA
+  dates:
+  - *1
+  - 2025-06-26
+  - 2025-06-27
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: chil2025.bib
+# Site settings
+# Original source:  chil2025.bib
