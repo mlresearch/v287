@@ -7,7 +7,7 @@ publisher: PMLR
 series: Proceedings of Machine Learning Research
 volume: '287'
 year: '2025'
-start: &1 2025-06-25
+start: 2025-06-25
 end: 2025-06-27
 published: 2025-07-02
 layout: proceedings
@@ -107,7 +107,7 @@ conference:
   location: Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley,
     USA
   dates:
-  - *1
+  - 2025-06-25
   - 2025-06-26
   - 2025-06-27
 analytics:
